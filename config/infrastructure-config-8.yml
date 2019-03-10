@@ -1,0 +1,18 @@
+---
+# Name for the created server profile template
+server_profile_template: SPT8
+
+# Name for the created server profile
+server_profile: server8
+
+# Name of the enclosure group
+enclosure_group: EG
+
+# Name of the server hardware type
+server_hardware_type: SY 480 Gen9 3
+
+# Name of the server hardware
+server_hardware: 0000A66102, bay 7
+
+# Name of the network
+network: Prod_1101
